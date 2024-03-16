@@ -13,3 +13,9 @@ bases_de_datos:
 acceso_remoto:
   anyDesk: 294203475
   clave: '@songsSystem2024--!@'
+
+La manera de trabajar es la siguiente, aplicando bien la medotologia agile, cada persona según su roll,
+deberá trabajar en su branch, luego de terminada su tarea se aplicaran los cambios a la rama Test-Project
+que es una copia de la rama master la cual no se debe tocar nunca, (OJO, Nunca usar la base de datos de Producción)
+una ves la los cambios sea vien vistos en la rama Test-Project, entonces se aplicaran los cambios en la rama master 
+y en producción.
