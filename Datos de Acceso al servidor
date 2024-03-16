@@ -1,0 +1,15 @@
+datos_de_acceso:
+  servidor: 196.332.33.43/SongsSystem
+  usuario: SongsSystem
+  clave: '@songsSystem2024--!@'
+  
+bases_de_datos:
+  - nombre: SongsSystem-Test
+    descripcion: Base de datos de prueba
+  
+  - nombre: SongsSystem
+    descripcion: Base de datos de producción
+
+acceso_remoto:
+  anyDesk: 294203475
+  clave: '@songsSystem2024--!@'
