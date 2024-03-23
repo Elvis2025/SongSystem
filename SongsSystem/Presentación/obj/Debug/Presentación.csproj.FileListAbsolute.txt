@@ -1,0 +1,17 @@
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\bin\Debug\Presentación.exe
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\bin\Debug\CapaDatos.dll
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\bin\Debug\CapaNegocio.dll
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\bin\Debug\CapaDatos.pdb
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\bin\Debug\CapaNegocio.pdb
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\obj\Debug\Presentación.csproj.AssemblyReference.cache
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\obj\Debug\Presentación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\obj\Debug\Presentación.Login.resources
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\obj\Debug\Presentación.VistaGeneral.resources
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\obj\Debug\Presentación.csproj.GenerateResource.cache
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\obj\Debug\Presentación.csproj.CopyComplete
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\obj\Debug\Presentación.exe
+C:\Users\Yoha\Source\Repos\SongsSystem\Presentación\obj\Debug\Presentación.pdb
